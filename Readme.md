@@ -32,4 +32,4 @@ mkdir <nombre(s) de carpeta(s)>
 open -a <"Aplicacion"> <Archivos>
 ```
 
-** Recuerda quitar los <> **
+**Recuerda quitar los <>**
