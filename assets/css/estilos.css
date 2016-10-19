@@ -45,6 +45,7 @@
   font-size: 15px;
 }
 
+/* Imagen de logo */
 #logo {
   float: left;
   display: block;
@@ -55,6 +56,7 @@
   transition: width .5s, height .5s, margin-right .5s, margin-top .5s;
 }
 
+/* Imagen de Logo para dispositivos mobiles */
 #logoMob {
   position: absolute;
   top: 25%;
