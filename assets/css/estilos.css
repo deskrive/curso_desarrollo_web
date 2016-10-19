@@ -54,3 +54,11 @@
   -o-transition: width .5s, height .5s, margin-right .5s, margin-top .5s;
   transition: width .5s, height .5s, margin-right .5s, margin-top .5s;
 }
+
+#logoMob {
+  position: absolute;
+  top: 25%;
+  left: 25%;
+  right: 25%;
+  width: 50%;
+}
