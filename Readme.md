@@ -33,3 +33,27 @@ open -a <"Aplicacion"> <Archivos>
 ```
 
 **Recuerda quitar los <>**
+
+#### Estructura del directorio
+- curso_web
+  - index.html
+  - assets
+    - css
+      - bootstrap.min.css
+      - estilos.css
+      - font-awesome.min.css
+    - fonts
+      - Iconos Font Awesome
+      - Iconos Font Bootstrap
+    - img
+      - bg.jpg
+      - bgtext.png
+      - cerveza.png
+      - coca.png
+      - ham.png
+      - logo.png
+      - pizza.png
+    - js
+      - bootstrap.min.js
+      - jquey.js
+      - scripts.js
