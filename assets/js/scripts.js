@@ -8,7 +8,7 @@ $(document).ready(function() {
   $(window).scroll(function() {
     scroll = $(window).scrollTop();
 
-    if(scroll > 200) {
+    if(scroll > 150) {
       // Si el scroll es major a 200.....
       if(!flag) {
         // Si la variable flag es false o no existe......
@@ -48,7 +48,7 @@ $(document).ready(function() {
 
         $("#menuDesk > nav > ul > li > a").css({
           //Llamamos a nuestro elemento a
-          "color":"black"
+          "color":"white"
         });
 
         $("#menuDesk").css({

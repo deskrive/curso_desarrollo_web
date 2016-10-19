@@ -43,13 +43,16 @@
   /*color: white;*/
   text-decoration: none;
   font-size: 15px;
+  color: white;
 }
 
 /* Imagen de logo */
 #logo {
   float: left;
   display: block;
-  margin: 150px 10px 0px 10px;
+  margin: 100px 10px 0px 10px;
+  width: 250px;
+  height: 250px;
   -webkit-transition: width .5s, height .5s, margin-right .5s, margin-top .5s;
   -moz-transition: width .5s, height .5s, margin-right .5s, margin-top .5s;
   -o-transition: width .5s, height .5s, margin-right .5s, margin-top .5s;
@@ -63,4 +66,16 @@
   left: 25%;
   right: 25%;
   width: 50%;
+}
+
+/*
+* Banner
+*/
+
+#banner {
+  width: 100%;
+  background-image: url(../img/bg.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 100vh;
 }
