@@ -154,17 +154,22 @@ body {
   border-bottom: solid 5px #e74c3c;
   margin-bottom: 30px;
   margin-top: 30px;
-}
+} /* Sección Próximos Partidos */
 
 .boton-calendario {
   margin-bottom: 15px;
-}
+} /* Sección Calendario */
 
 .ultimosPartidos {
   border-bottom: solid 5px #2980b9;
   margin-bottom: 30px;
   margin-top:30px;
-}
+}/* Sección últimos Partidos */
+
+.clasificacion {
+  border-bottom: solid 5px #27ae60;
+  margin-bottom: 30px;
+} /* Sección de clasificación */
 
 /* Calendario */
 
